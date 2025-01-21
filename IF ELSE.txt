@@ -1,0 +1,43 @@
+######## IF ELSE #####
+#contador = 1
+#valor_dolar = 6.51
+#while contador <= 5:
+#    if contador == 1:
+#        print('%i dólar vale %.2f reais ' %(contador, contador*valor_dolar))
+#    else:
+#        print('%i dólares valem %.2f reais ' %(contador, contador*valor_dolar))
+#    contador = contador + 1
+    
+###### FOR #########
+#a = ['Laranja', 'Maça', 'Uva', 'Pera', 'Morango']
+
+#for i in a:
+#    print(i)
+ 
+#for x in a:
+#    print("%s tem %i letras." %(x, len(x)))
+
+#for i in range(1,11,2):
+#    print(i)
+
+#for cont in range(11):
+#    print (cont * 2)
+
+#matriz = ((1,0,0),(0,1,0),(0,0,1))
+
+#for x in range(len(matriz)):
+#    print("\n")
+#    for y in range(len(matriz)):
+#        print(matriz[x][y])
+
+#x = ['pedra', 'papel', 'tesoura']
+#for item in x:
+#    print(item)
+
+#valores = [2,4,5,2,-1]
+#for i in valores:
+#    if i < 0:
+#        print("Numero Negativo Encontrado. %d" %i)
+#        break
+#    else:
+#        print('Nenhum numero negativo encontrado')
